@@ -4,35 +4,18 @@
 	width: 960px;
 	height: 810px;
 	margin: 5px auto;
-	border: 1px black dotted;
 }
 
-#top {
+#top1, #top2, #top3, #middle1, #middle2, #middle3, #bottom1, #bottom2, #bottom3 {
 	float: left;
-	width: 750px;
-	margin: 5px auto;
+	width: 318px;
 	border: 1px black dotted;	
-	
+	text-align: center;
 }
 
 #content {
 	float: left;
-	width: 750px;
+	width: 958px;
+	border: 1px black dotted;
 	margin: 5px auto;
-	border: 1px black dotted;	
-}
-
-#foot {
-	float: left;
-	width: 750px;
-	margin: 5px auto;
-	border: 1px black dotted;	
-}
-
-#left {
-	float: left;
-	width: 200px;
-	height: 806px;
-	margin: 1px;
-	border: 1px black dotted;	
 }
