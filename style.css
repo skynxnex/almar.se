@@ -6,16 +6,9 @@
 	margin: 5px auto;
 }
 
-#top1, #top2, #top3, #middle1, #middle2, #middle3, #bottom1, #bottom2, #bottom3 {
-	float: left;
-	width: 318px;
-	border: 1px black dotted;	
-	text-align: center;
-}
-
 #content {
 	float: left;
 	width: 958px;
-	border: 1px black dotted;
 	margin: 5px auto;
 }
+
